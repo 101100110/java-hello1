@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/workspaceitemthree/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/workspaceitemthree/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-08/day-08.iml" filepath="$PROJECT_DIR$/day-08/day-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07/day07.iml" filepath="$PROJECT_DIR$/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10/day10.iml" filepath="$PROJECT_DIR$/day10/day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayo1/dayo1.iml" filepath="$PROJECT_DIR$/dayo1/dayo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayo9/dayo9.iml" filepath="$PROJECT_DIR$/dayo9/dayo9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-hello.iml" filepath="$PROJECT_DIR$/java-hello.iml" />
+    </modules>
+  </component>
+</project>
